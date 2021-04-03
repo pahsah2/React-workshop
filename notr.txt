@@ -1,0 +1,10 @@
+npx express-generator --view=pug my-app
+
+mongo Atlas
+id: pahsah12
+pass: isKIVbsuKjs4dszb
+
+
+api mongodb+srv://pahsah12:<password>@cluster0.ywyt0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+var mongoDB = 'mongodb+srv://pahsah12:isKIVbsuKjs4dszb@cluster0.ywyt0.mongodb.net/nextjs?retryWrites=true&w=majority';
